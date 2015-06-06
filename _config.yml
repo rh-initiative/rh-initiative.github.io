@@ -1,5 +1,5 @@
 title: The Religion Humanity Initiative
-description: -
+description: m
 
 url: http://brianmaierjr.github.com/long-haul
 baseurl: ""
@@ -18,3 +18,10 @@ navigation:
  - title: Contact
    url: /contact
 
+social:
+   github: rh-initiative
+   twitter: m
+   facebook: pages/The-Religion-Humanity-Initiative/1555114474755581
+   email: brimaidesigns@gmail.com
+
+google_analytics: "UA-58263416-1"
